@@ -28,5 +28,5 @@ With the functionality of ⏳(**Processing Speed Control**)  and   📏(**Array 
 
 ## 📷 ScreenShots 
 ------------------
-![image](img/application_img1.png)
-![image](img/application_img2.png)
+![image](img/application_img1.jpg)
+![image](img/application_img2.jpg)
